@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhunh
 - 👀 I’m interested in everything related to JavaScript.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning vue3, typescript, vite
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: znh_1995@163.com
 
